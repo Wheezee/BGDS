@@ -29,6 +29,7 @@ composer install
 3. Create a copy of the `.env` file:
 
 4. Configure your `.env` file:
+- If you want to use sqlite, it's already set up, if you want to use mysql, proceed with the db setup below
 - Set your database connection details:
 ```
 DB_CONNECTION=mysql
