@@ -18,7 +18,7 @@ Web Based Laravel System
 1. Clone the repository:
 ```bash
 git clone https://github.com/Wheezee/BGDS.git
-cd [your-project-folder]
+cd BGDS
 ```
 
 2. Install PHP dependencies using Composer:
