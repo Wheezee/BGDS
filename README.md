@@ -80,7 +80,7 @@ php artisan migrate:fresh --seed
 
 ## System Requirements
 
-- PHP >= 8.1
+- PHP >= 8.2
 - BCMath PHP Extension
 - Ctype PHP Extension
 - JSON PHP Extension
