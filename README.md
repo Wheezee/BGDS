@@ -9,7 +9,7 @@ Web Based Laravel System
 
 ## Prerequisites
 
-- PHP 8.1 or higher
+- PHP 8.2 or higher
 - Composer
 - MySQL/MariaDB (If you want to use MySQL)
 
