@@ -2,6 +2,10 @@
 
 Web Based Laravel System
 
+##Screenshots
+![Alt text](https://i.imgur.com/xxxxx.jpg)
+
+
 ## Prerequisites
 
 - PHP 8.1 or higher
