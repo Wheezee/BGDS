@@ -2,7 +2,7 @@
 
 Web Based Laravel System
 
-##Screenshots
+## Screenshots
 ![Alt text](https://i.imgur.com/ki1PmBD.png)
 
 
