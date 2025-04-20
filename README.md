@@ -3,7 +3,8 @@
 Web Based Laravel System
 
 ## Screenshots
-![Alt text](https://i.imgur.com/ki1PmBD.png)
+![Why isn't it loading?](https://i.imgur.com/ki1PmBD.png)
+![Dashboard](https://i.imgur.com/v5q1sik.png)
 
 
 ## Prerequisites
