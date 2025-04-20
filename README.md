@@ -3,7 +3,7 @@
 Web Based Laravel System
 
 ##Screenshots
-![Alt text](https://imgur.com/a/68a3YP6)
+![Alt text](https://i.imgur.com/ki1PmBD.png)
 
 
 ## Prerequisites
