@@ -61,11 +61,6 @@ The application will be available at `http://127.0.0.1:8000`
 - Email: superadmin@gmail.com
 - Password: superadmin123
 
-## Default Volunteer Credentials
-
-- Email: volunteer@example.com
-- Password: volunteer123
-
 ## Database Management Commands
 
 - To fresh install database (warning: this will delete all data):
