@@ -90,3 +90,9 @@ php artisan migrate:fresh --seed
 - Tokenizer PHP Extension
 - XML PHP Extension
 - And many other stuff... I dunno
+
+
+
+
+
+Fk, I forgot to change the logo... I used the default, note to self, edit it in the future
