@@ -101,4 +101,4 @@ php artisan migrate:fresh --seed
 
 
 
-Fk, I forgot to change the logo... I used the default, note to self, edit it in the future
+BRTZR was here
