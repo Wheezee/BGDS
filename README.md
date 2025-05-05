@@ -55,7 +55,12 @@ php artisan migrate
 php artisan db:seed
 ```
 
-8. Start the development server:
+8. Link the storage
+```bash
+php artisan storage:link
+```
+
+9. Start the development server:
 ```bash
 php artisan serve
 ```
