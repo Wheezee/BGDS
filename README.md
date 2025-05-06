@@ -87,15 +87,7 @@ php artisan migrate:fresh --seed
 ## System Requirements
 
 - PHP >= 8.2
-- BCMath PHP Extension
-- Ctype PHP Extension
-- JSON PHP Extension
-- Mbstring PHP Extension
-- OpenSSL PHP Extension
-- PDO PHP Extension
-- Tokenizer PHP Extension
-- XML PHP Extension
-- And many other stuff... I dunno
+- Computer
 
 
 
